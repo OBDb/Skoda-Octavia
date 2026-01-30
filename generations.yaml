@@ -1,7 +1,10 @@
+references:
+  - "https://en.wikipedia.org/wiki/%C5%A0koda_Octavia"
+
 generations:
   - name: "First Generation (Type 1U)"
     start_year: 1996
-    end_year: 2004
+    end_year: 2010
     description: "The first-generation Škoda Octavia represented a pivotal model for the Czech brand following its acquisition by the Volkswagen Group. Built on the Volkswagen Group's PQ34 platform shared with the Volkswagen Golf Mk4 and Audi A3 Mk1, the Octavia cleverly positioned itself as a halfway point between compact and mid-size segments. Available as a five-door liftback sedan (despite its conventional three-box appearance) and later as an estate (Combi), the Octavia measured approximately 4.5 meters in length, offering substantially more interior space and cargo capacity than most compact cars of the era. Engine options included gasoline units ranging from 1.4 to 2.0 liters, including a 1.8-liter turbocharged variant, and diesel options centered around the 1.9 TDI in various states of tune, with power outputs ranging from 60 to 180 horsepower in the high-performance RS model introduced in 2000. The interior featured straightforward Germanic design with a focus on functionality and durability rather than style, but with materials and build quality that represented a quantum leap over pre-Volkswagen Škoda products. A facelift in 2000 brought updated styling and technology. The first-generation Octavia established the model's reputation for offering exceptional value by essentially providing mid-size car space and capability at compact car prices, a formula that would define the Octavia through subsequent generations and play a key role in transforming Škoda's brand image."
 
   - name: "Second Generation (Type 1Z)"
@@ -11,7 +14,7 @@ generations:
 
   - name: "Third Generation (Type 5E)"
     start_year: 2013
-    end_year: 2020
+    end_year: 2019
     description: "The third-generation Škoda Octavia was built on the Volkswagen Group's MQB platform shared with models like the Volkswagen Golf Mk7 and Audi A3 Mk3. Continuing the trend of its predecessors, the new Octavia grew again to approximately 4.66 meters in length, placing it firmly in mid-size territory despite often being marketed and priced as a compact car. Available in the traditional five-door liftback sedan and estate (Combi) body styles, the third-generation Octavia featured more distinctive styling with sharper lines and, initially, controversial split headlight design that was revised in a 2017 facelift. Engine options included gasoline units ranging from 1.0 to 2.0 liters, almost all turbocharged, and diesel options centered around the 1.6 TDI and 2.0 TDI, with power outputs ranging from 86 to 245 horsepower in the RS performance variants. Alternative powertrains expanded to include the G-TEC compressed natural gas (CNG) variant and, for the first time, a plug-in hybrid version in the later years of production. Transmission options included six-speed manuals, seven-speed DSG dual-clutch automatics, and, in some markets, a traditional automatic. The interior saw significant improvements in design, material quality, and technology, featuring an available 8-inch touchscreen infotainment system, digital instrument cluster option, and expanded driver assistance systems including adaptive cruise control and lane-keeping assist. The 'Simply Clever' features that became a Škoda hallmark expanded to include numerous practical touches like an ice scraper mounted inside the fuel filler cap, a waste bin in the door pocket, and an umbrella under the passenger seat. Specialty variants continued with the Scout (later renamed Octavia Scout) offering raised ride height, all-wheel drive, and off-road styling elements, and the RS performance model available in both body styles with gasoline or diesel power. The third-generation Octavia became Škoda's global bestseller, successfully entering new markets including Australia and establishing itself as a rational alternative to both mainstream and premium compact and mid-size offerings."
 
   - name: "Fourth Generation (Type NX)"
