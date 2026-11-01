@@ -1,0 +1,37 @@
+command_id: 714.77E.221014|fc=1
+test_cases:
+- expected_values:
+    SKODA_AAT: 76
+    SKODA_DASH_AAT: 13
+    SKODA_DASH_AMBIENT_AIR_T: 13
+  response: 77E046210147E
+- expected_values:
+    SKODA_AAT: 77
+    SKODA_DASH_AAT: 13.5
+    SKODA_DASH_AMBIENT_AIR_T: 13.5
+  response: 77E046210147F
+- expected_values:
+    SKODA_AAT: 94
+    SKODA_DASH_AAT: 22
+    SKODA_DASH_AMBIENT_AIR_T: 22
+  response: '77E0462101490'
+- expected_values:
+    SKODA_AAT: 95
+    SKODA_DASH_AAT: 22.5
+    SKODA_DASH_AMBIENT_AIR_T: 22.5
+  response: '77E0462101491'
+- expected_values:
+    SKODA_AAT: 102
+    SKODA_DASH_AAT: 26
+    SKODA_DASH_AMBIENT_AIR_T: 26
+  response: '77E0462101498'
+- expected_values:
+    SKODA_AAT: 103
+    SKODA_DASH_AAT: 26.5
+    SKODA_DASH_AMBIENT_AIR_T: 26.5
+  response: '77E0462101499'
+- expected_values:
+    SKODA_AAT: 105
+    SKODA_DASH_AAT: 27.5
+    SKODA_DASH_AMBIENT_AIR_T: 27.5
+  response: 77E046210149B

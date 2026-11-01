@@ -1,0 +1,18 @@
+command_id: 7E0.7E8.22F442
+test_cases:
+- expected_values:
+    SKODA_KL30_V: 12.5
+    SKODA_VPWR: 12.5
+  response: 7E80562F44230D4
+- expected_values:
+    SKODA_KL30_V: 14.32
+    SKODA_VPWR: 14.32
+  response: 7E80562F44237F0
+- expected_values:
+    SKODA_KL30_V: 14.34
+    SKODA_VPWR: 14.34
+  response: 7E80562F4423804
+- expected_values:
+    SKODA_KL30_V: 14.72
+    SKODA_VPWR: 14.72
+  response: 7E80562F4423980

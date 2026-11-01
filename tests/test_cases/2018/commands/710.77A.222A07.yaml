@@ -1,0 +1,22 @@
+command_id: 710.77A.222A07
+test_cases:
+- expected_values:
+    SKODA_BAT_V_2A07: 12.674
+    SKODA_MQB_BAT_V: 12.674
+    SKODA_SSB_V: 12.674
+  response: 77A05622A0721E2
+- expected_values:
+    SKODA_BAT_V_2A07: 13.732
+    SKODA_MQB_BAT_V: 13.732
+    SKODA_SSB_V: 13.732
+  response: 77A05622A072604
+- expected_values:
+    SKODA_BAT_V_2A07: 14.494
+    SKODA_MQB_BAT_V: 14.494
+    SKODA_SSB_V: 14.494
+  response: 77A05622A0728FE
+- expected_values:
+    SKODA_BAT_V_2A07: 14.577
+    SKODA_MQB_BAT_V: 14.577
+    SKODA_SSB_V: 14.577
+  response: 77A05622A072951
