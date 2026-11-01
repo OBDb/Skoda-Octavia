@@ -1,0 +1,12 @@
+command_id: 7E1.7E9.221001
+test_cases:
+- expected_values:
+    SKODA_TCM_1001_RAW: 121
+    SKODA_TIRE_FR_SPD_7E1: 309.76
+    SKODA_TIRE_FR_SPD_V3: 255
+  response: '7E9056210017900'
+- expected_values:
+    SKODA_TCM_1001_RAW: 143
+    SKODA_TIRE_FR_SPD_7E1: 366.08
+    SKODA_TIRE_FR_SPD_V3: 255
+  response: 7E9056210018F00

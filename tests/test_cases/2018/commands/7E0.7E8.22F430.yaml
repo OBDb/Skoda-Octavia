@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22F430
+test_cases:
+- expected_values:
+    SKODA_WARM_UPS: 8
+  response: 7E80462F43008
+- expected_values:
+    SKODA_WARM_UPS: 17
+  response: 7E80462F43011
+- expected_values:
+    SKODA_WARM_UPS: 37
+  response: 7E80462F43025
+- expected_values:
+    SKODA_WARM_UPS: 54
+  response: 7E80462F43036
+- expected_values:
+    SKODA_WARM_UPS: 58
+  response: 7E80462F4303A

@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    SKODA_CLR_DIST: 1423
+  response: 7E80562F431058F
+- expected_values:
+    SKODA_CLR_DIST: 1424
+  response: 7E80562F4310590
+- expected_values:
+    SKODA_CLR_DIST: 1425
+  response: 7E80562F4310591
+- expected_values:
+    SKODA_CLR_DIST: 1538
+  response: 7E80562F4310602
+- expected_values:
+    SKODA_CLR_DIST: 1539
+  response: 7E80562F4310603
+- expected_values:
+    SKODA_CLR_DIST: 3155
+  response: 7E80562F4310C53
+- expected_values:
+    SKODA_CLR_DIST: 4467
+  response: 7E80562F4311173
+- expected_values:
+    SKODA_CLR_DIST: 4843
+  response: 7E80562F43112EB
+- expected_values:
+    SKODA_CLR_DIST: 4844
+  response: 7E80562F43112EC

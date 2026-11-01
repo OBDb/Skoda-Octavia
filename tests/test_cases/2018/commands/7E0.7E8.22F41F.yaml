@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    SKODA_RUNTM: 12
+  response: 7E80562F41F000C
+- expected_values:
+    SKODA_RUNTM: 506
+  response: 7E80562F41F01FA
+- expected_values:
+    SKODA_RUNTM: 20782
+  response: 7E80562F41F512E

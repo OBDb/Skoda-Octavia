@@ -1,0 +1,17 @@
+command_id: 7E1.7E9.223887
+test_cases:
+- expected_values:
+    SKODA_MQB_TCM_ODO_2: 181713.6
+  response: 7E90762388730BA1B00
+- expected_values:
+    SKODA_MQB_TCM_ODO_2: 183356.2
+  response: 7E9076238875AFA1B00
+- expected_values:
+    SKODA_MQB_TCM_ODO_2: 193762
+  response: 7E907623887D4901D00
+- expected_values:
+    SKODA_MQB_TCM_ODO_2: 184958.7
+  response: 7E907623887F3381C00
+- expected_values:
+    SKODA_MQB_TCM_ODO_2: 184959.8
+  response: 7E907623887FE381C00

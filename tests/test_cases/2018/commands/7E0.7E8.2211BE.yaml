@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2211BE
+test_cases:
+- expected_values:
+    SKODA_11BE_RAW: 3372
+    SKODA_ECM_11BE_RAW: 13
+    SKODA_PQ35_OIL_T_2: 64.1
+    SKODA_PQ46_OIL_T_2: 64.05
+  response: 7E8056211BE0D2C
+- expected_values:
+    SKODA_11BE_RAW: 3760
+    SKODA_ECM_11BE_RAW: 14
+    SKODA_PQ35_OIL_T_2: 102.9
+    SKODA_PQ46_OIL_T_2: 102.85
+  response: 7E8056211BE0EB0
+- expected_values:
+    SKODA_11BE_RAW: 3798
+    SKODA_ECM_11BE_RAW: 14
+    SKODA_PQ35_OIL_T_2: 106.7
+    SKODA_PQ46_OIL_T_2: 106.65
+  response: 7E8056211BE0ED6

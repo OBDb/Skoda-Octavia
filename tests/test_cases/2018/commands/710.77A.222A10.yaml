@@ -1,0 +1,11 @@
+command_id: 710.77A.222A10
+test_cases:
+- expected_values:
+    SKODA_SSB_V_REST: 12.4
+  response: 77A04622A1022
+- expected_values:
+    SKODA_SSB_V_REST: 12.5
+  response: 77A04622A1023
+- expected_values:
+    SKODA_SSB_V_REST: 12.7
+  response: 77A04622A1025
